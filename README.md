@@ -1,7 +1,5 @@
 # HAI-HEAL: Hallucinations of Artificial Intelligence in Healthcare
 
-## Introduction
-
 This repository explores the topic of hallucinations in Artificial Intelligence (AI) and their implications for the healthcare sector. The aim is to understand the potential risks and provide solutions associated with AI systems exhibiting hallucinatory behaviors, and how it may impact healthcare practices.
 
 ## Background
